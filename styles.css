@@ -1,0 +1,183 @@
+.no-padding {
+    padding: 0px !important;
+}
+
+.sky-blue {
+    background-color: #68d4f4;
+}
+
+.light-grey {
+    background-color: #c2c7c9;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+    font-family: Righteous;
+    margin-bottom: 1rem;
+    color: #306aac;
+}
+
+h2 {
+    text-align: center;
+    font-family: Caveat;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+h3 {
+    text-align: left;
+    font-family: Ramabhadra;
+    color: #306aac;
+    font-size: xx-large;
+    margin: 1rem;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid #ffd200;
+}
+
+.shadow {
+    box-shadow: grey;
+}
+
+.carousel-caption {
+    position: relative;
+    left: auto;
+    right: auto;
+    color: black;
+}
+
+button {
+    border-radius: 10;
+}
+
+.row-padding {
+    width: 100%;
+    padding: 2rem;
+}
+
+.row-padding-extra {
+    width: 50;
+    padding-top: 3rem;
+    padding-left: 9rem;
+    padding-right: 9rem;
+}
+
+.bold {
+    font-family: Abril Fatface;
+    font-size: 3rem;
+}
+
+.slight-bold {
+    font-weight: bold;
+}
+
+.bold-blue {
+    font-family: Abril Fatface;
+    font-size: 3rem;
+    color: #306aac;
+}
+
+.left_align {
+    text-align: left;
+}
+
+.center-align {
+    text-align: center;
+}
+
+.col-spacing {
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+footer {
+    background-color: #306aac;
+    padding: 3rem;
+}
+
+ul {
+    list-style: none;
+    color: white;
+}
+
+.li-header {
+    color: #68d4f4;
+    font: bold;
+}
+
+.toothpaste {
+    border-radius: 25% 10%;
+}
+
+.circle {
+    background-image: url("wk9_photos/circle_yl.png")
+}
+
+.circle-background {
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h2.circle-padding {
+    padding: 25%;
+    text-align: center;
+}
+
+
+.square {
+    height: 15em;
+    width: 15em;
+}
+
+.impactful-p {
+    text-align: center;
+    font-family: Ramabhadra;
+    margin-bottom: 2rem;
+    color: #306aac;
+    font-size: large;
+}
+
+.volunteer-background {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("wk9_photos/web_pexels-mikhail-nilov-7474354.jpg")
+}
+
+.el-centered {
+    text-align: center;
+    justify-content: center;
+}
+
+.form-rounded {
+    width: 100%;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+
+.signup-button {
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+.paw-background {
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url("wk9_photos/pawprints_2.png")
+}
+
+.sel-padding {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-right: 3rem;
+    padding: .5rem;
+}
+
+form,
+.form-add {
+    margin: 1rem;
+}
